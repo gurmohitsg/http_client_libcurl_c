@@ -1,5 +1,5 @@
 # HTTP Client
-The HTTP Client capable of sending GET request
+An HTTP Client capable of sending GET request
 
 ### Prerequisities
 
