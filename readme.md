@@ -7,7 +7,7 @@ libcurl: A free and easy-to-use client-side URL transfer library for c, GCC Comp
 
 ### Usage
 
-> gcc -o http_client_c http_client_c.c -lcurl
+> gcc -o bin/http_client_c src/http_client_c.c -lcurl
 
 ## Authors
 
